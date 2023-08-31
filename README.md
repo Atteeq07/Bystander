@@ -1,2 +1,1 @@
-# Bystander
-my first code hopefully this works
+Print("Hellow Friend This needs help")
